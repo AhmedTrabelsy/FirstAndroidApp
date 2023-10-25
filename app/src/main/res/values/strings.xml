@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="afficher">Afficher</string>
+    <string name="android">Android</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="dsi">DSI</string>
+    <string name="rsi">RSI</string>
+    <string name="sem">SEM</string>
+    <string name="quelle_est_votre_sp_cialit">Quelle est votre spécialité ?</string>
+    <string name="quelle_est_votre_club">Quelle est votre club ?</string>
+    <string name="menu_search">Search</string>
+</resources>
